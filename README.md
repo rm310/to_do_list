@@ -1,0 +1,1 @@
+This is "To do list" web application for managing tasks by creating, deleting, updating and reading them. Once task is created user can manage it by their own. API methods are used as GET for reading, PUT for creating new one, DELETE for deleting and PUT for updating.
